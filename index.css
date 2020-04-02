@@ -108,3 +108,9 @@ input[type=submit]:hover {
 .anchor a:hover {
     color: rgb(148, 142, 142);
 }
+
+@media screen and (max-width: 500px) {
+    .wrapper {
+        width: 350px;
+    }
+}
